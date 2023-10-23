@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <style>
+      .h1 {
+        font-family: serif;
+        display: block;
+        font-size: 2em;
+        margin: 0.67em, 0.67em;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+
+  <body class="h1">
+    <div id="container">
+      <div id="base-content"></div>
+      <div id="temp-content"></div>
+    </div>
+  </body>
+  <script src="content.js"></script>
+  <script src="render-util.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      window.homepage.RenderUtil.init({
+        containerId: '#container',
+        baseContentId: '#base-content',
+        tempContentId: '#temp-content',
+      });
+    });
+  </script>
+</html>
