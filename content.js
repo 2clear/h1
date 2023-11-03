@@ -46,6 +46,11 @@ window.homepage.Content = (() => {
       url: 'https://trello.com/b/Ggxj1Caw/rmenu-vienna',
       keybind: 'V',
     },
+    {
+      text: 'MY todo',
+      url: 'https://docs.google.com/spreadsheets/d/1b6Xie2FcweL9rW_ErMTs9r9uW7R3ZO8I8fW_hvhdeBY/edit#gid=0',
+      keybind: 'T'
+    }
   ];
   const _tempContent = [
     {
