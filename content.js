@@ -57,12 +57,7 @@ window.homepage.Content = (() => {
       text: 'xh1 review',
       url: 'https://drive.google.com/drive/u/0/folders/1Qno8HxLelJk35Zb5UWY8LnmZ9KI3gpzV',
       keybind: 'X',
-    },
-    {
-      text: 'Wpg meetup',
-      url: 'https://drive.google.com/drive/folders/1zGhXqtOtTzjVWyd4mlzPTxDJJEdLpW62',
-      keybind: 'W',
-    },
+    }
     // {
     //   text: 'Perf review brown bag',
     //   url: 'https://drive.google.com/drive/u/0/folders/1jPDm2CXiqXij5Z-Tz-b6yJVr1k9ENMGb',
