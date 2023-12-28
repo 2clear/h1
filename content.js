@@ -54,9 +54,9 @@ window.homepage.Content = (() => {
   ];
   const _tempContent = [
     {
-      text: 'xh1 review',
-      url: 'https://drive.google.com/drive/u/0/folders/1Qno8HxLelJk35Zb5UWY8LnmZ9KI3gpzV',
-      keybind: 'X',
+      text: 'RMENU 2023 Performance Reviews',
+      url: 'https://drive.google.com/drive/folders/1t0GZ7bYA4_hIWOMZxBLgd-1KKt0VlogO?usp=drive_link',
+      keybind: 'R',
     }
     // {
     //   text: 'Perf review brown bag',
