@@ -13,7 +13,7 @@ window.homepage.Content = (() => {
     },
     {
       text: 'Feedback',
-      url: 'https://docs.google.com/spreadsheets/d/1mfarPDl8SmK2gP4Yod3aCtGSjX_HeDH_xD9POEc3C3o/edit#gid=1601947052',
+      url: 'https://docs.google.com/spreadsheets/d/1mfarPDl8SmK2gP4Yod3aCtGSjX_HeDH_xD9POEc3C3o/edit#gid=1064493374',
       keybind: '3',
     },
     {
