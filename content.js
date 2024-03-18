@@ -17,7 +17,7 @@ window.homepage.Content = (() => {
       keybind: '3',
     },
     {
-      text: 'Tell the team',
+      text: 'Tell the team (Trello)',
       url: 'https://trello.com/b/9UxllL1x/rmenu-tell-the-team',
       keybind: '4',
     },
@@ -41,11 +41,11 @@ window.homepage.Content = (() => {
       url: 'rds.html',
       keybind: '8',
     },
-    {
-      text: 'Vienna',
-      url: 'https://trello.com/b/Ggxj1Caw/rmenu-vienna',
-      keybind: 'V',
-    },
+    // {
+    //   text: 'Vienna',
+    //   url: 'https://trello.com/b/Ggxj1Caw/rmenu-vienna',
+    //   keybind: 'V',
+    // },
     {
       text: 'MY todo',
       url: 'https://docs.google.com/spreadsheets/d/1b6Xie2FcweL9rW_ErMTs9r9uW7R3ZO8I8fW_hvhdeBY/edit#gid=0',
@@ -54,10 +54,20 @@ window.homepage.Content = (() => {
   ];
   const _tempContent = [
     {
-      text: 'RMENU 2023 Performance Reviews',
-      url: 'https://drive.google.com/drive/folders/1t0GZ7bYA4_hIWOMZxBLgd-1KKt0VlogO?usp=drive_link',
-      keybind: 'R',
+      text: 'MB<>JETMS',
+      url: 'https://justeattakeaway.atlassian.net/jira/plans/reports/k374n',
+      keybind: 'J' 
+    },
+    {
+      text: 'Menu Handover (tba)',
+      url: 'https://justeat.slack.com/archives/D03L2FXFF9B/p1710778402857359',
+      keybind: 'H' 
     }
+    // {
+    //   text: 'RMENU 2023 Performance Reviews',
+    //   url: 'https://drive.google.com/drive/folders/1t0GZ7bYA4_hIWOMZxBLgd-1KKt0VlogO?usp=drive_link',
+    //   keybind: 'R',
+    // }
     // {
     //   text: 'Perf review brown bag',
     //   url: 'https://drive.google.com/drive/u/0/folders/1jPDm2CXiqXij5Z-Tz-b6yJVr1k9ENMGb',
